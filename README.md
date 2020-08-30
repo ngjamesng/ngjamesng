@@ -4,6 +4,8 @@ I like to code  and create meaningful projects. I also like to hike, visit parks
 
 👨🏻‍💻 🥾 🏞 🌲 🏠
 
+[https://jamesng.dev](https://jamesng.dev)
+
 ## Technologies that I work with
 
 These are the technologies I've worked with.
