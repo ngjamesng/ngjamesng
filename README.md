@@ -4,7 +4,13 @@ I like to code  and create meaningful projects. I also like to hike, visit parks
 
 👨🏻‍💻 🥾 🏞 🌲 🏠
 
-[https://jamesng.dev](https://jamesng.dev)
+[https://jamesng.dev](https://jamesng.dev) - Personal Site
+
+[https://twitter.com/ngjamesng](https://twitter.com/ngjamesng) - My Twitter
+
+[https://twitter.com/sandra_the_sensor](https://twitter.com/sandra_the_sensor) - My Environmental sensor Twitter Bot
+
+[https://weatherwear.jamesng.dev/](https://weatherwear.jamesng.dev/) - A personal project that gets location-based weather info and makes clothing recommendations
 
 ## Technologies that I work with
 
