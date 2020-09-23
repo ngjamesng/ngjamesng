@@ -8,7 +8,7 @@ I like to code  and create meaningful projects. I also like to hike, visit parks
 
 [https://twitter.com/ngjamesng](https://twitter.com/ngjamesng) - My Twitter
 
-[https://twitter.com/sandra_the_sensor](https://twitter.com/sandra_the_sensor) - My Environmental sensor Robot/Twilio/Twitter Bot
+[https://twitter.com/sandra_the_bot](https://twitter.com/sandra_the_bot) - My Environmental sensor Robot/Twilio/Twitter Bot
 
 [https://weatherwear.jamesng.dev/](https://weatherwear.jamesng.dev/) - A personal project that gets location-based weather info and makes clothing recommendations
 
